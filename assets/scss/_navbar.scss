@@ -1,0 +1,21 @@
+.megamenu-li {
+	position: static;
+}
+
+.megamenu {
+	position: absolute;
+	width: 100%;
+	left: 0;
+	right: 0;
+	padding: 15px;
+}
+
+.carousel-item {
+    height: 65vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
